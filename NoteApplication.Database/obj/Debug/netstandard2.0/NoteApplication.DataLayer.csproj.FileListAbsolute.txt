@@ -1,0 +1,22 @@
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.DataLayer.deps.json
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.DataLayer.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.DataLayer.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.csprojAssemblyReference.cache
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.AssemblyInfoInputs.cache
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.AssemblyInfo.cs
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.csproj.CopyComplete
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.DataLayer.deps.json
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.DataLayer.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.DataLayer.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.csprojAssemblyReference.cache
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.AssemblyInfoInputs.cache
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.AssemblyInfo.cs
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.csproj.CopyComplete
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.DataLayer.pdb

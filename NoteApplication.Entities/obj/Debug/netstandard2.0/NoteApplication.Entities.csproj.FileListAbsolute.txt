@@ -1,0 +1,15 @@
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.deps.json
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfoInputs.cache
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfo.cs
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.csprojAssemblyReference.cache
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.deps.json
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfoInputs.cache
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfo.cs
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.pdb

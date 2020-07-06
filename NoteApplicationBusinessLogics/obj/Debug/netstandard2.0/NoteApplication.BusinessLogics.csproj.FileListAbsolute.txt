@@ -1,0 +1,13 @@
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLogics.deps.json
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLogics.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLogics.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Database.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Database.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLogics.csprojAssemblyReference.cache
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLogics.AssemblyInfoInputs.cache
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLogics.AssemblyInfo.cs
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLogics.csproj.CopyComplete
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLogics.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLogics.pdb

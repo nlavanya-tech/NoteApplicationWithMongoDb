@@ -1,0 +1,11 @@
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Database.deps.json
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Database.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Database.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.csprojAssemblyReference.cache
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.AssemblyInfoInputs.cache
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.AssemblyInfo.cs
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.csproj.CopyComplete
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.dll
+I:\IIHT\Applications\NoteApplication\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.pdb

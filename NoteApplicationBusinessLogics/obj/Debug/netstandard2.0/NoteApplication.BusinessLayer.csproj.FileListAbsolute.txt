@@ -1,0 +1,26 @@
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLayer.deps.json
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLayer.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLayer.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.DataLayer.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.DataLayer.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.csprojAssemblyReference.cache
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.AssemblyInfoInputs.cache
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.AssemblyInfo.cs
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.csproj.CopyComplete
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.dll
+I:\IIHT\Applications\NoteApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLayer.deps.json
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLayer.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.BusinessLayer.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.DataLayer.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.DataLayer.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.csprojAssemblyReference.cache
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.AssemblyInfoInputs.cache
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.AssemblyInfo.cs
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.csproj.CopyComplete
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.dll
+I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplicationBusinessLogics\obj\Debug\netstandard2.0\NoteApplication.BusinessLayer.pdb
