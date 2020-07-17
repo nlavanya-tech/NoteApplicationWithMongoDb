@@ -22,55 +22,29 @@ namespace NoteApplication.BusinessLogics.Services.Repository
             _context = context;
           //  this.DbContext = DbContext;
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <returns></returns>
+
+       //To get All notes from Mongo DB
         public async Task<IEnumerable<Notes>> ReadAsync()
         {
-          //  var notes = this.DbContext.notes.ToList();
-            var newnotes = await _context.notes.Find(note => true).ToListAsync();
-            return newnotes;
+            throw new NotImplementedException();
         }
+
+        //Inserting new notes in MongoDB
         public async Task<Notes> CreateAsync(Notes notes)
         {
-           // this.DbContext.Add(notes);
-           // this.DbContext.SaveChanges();
-            await _context.notes.InsertOneAsync(notes);
-            return notes;
+            throw new NotImplementedException();
         }
+
+        //To Update perticular notes in MongoDB based on Notes Id
         public async Task<Notes> UpdateAsync(Notes note)
         {
-            //var notes = this.DbContext.notes.FirstOrDefault(e => e.Id == note.Id);
-            //if (notes != null)
-            //{
-            //    notes.Id = note.Id;
-            //    notes.Title = note.Title;
-            //    notes.Author = note.Author;
-            //    notes.Description = note.Description;
-            //    notes.Status = note.Status;
-            //    this.DbContext.SaveChanges();
-            //}
-            //else
-            //{
-            //    note = null;
-            //}
-            return note;
+            throw new NotImplementedException();
         }
+
+        //To Delete Particular notes in mongodb based on Notes ID
         public async Task<Notes> DeleteAsync(Notes notes)
         {
-            //var note = this.DbContext.notes.FirstOrDefault(e => e.Id == notes.Id);
-            //if (notes != null)
-            //{
-            //    this.DbContext.Remove(notes.Id);
-            //    this.DbContext.SaveChanges();
-            //    return notes;
-            //}
-            //else
-            //{
-            //    return null;
-            //}
-            return notes;
+            throw new NotImplementedException();
         }
     }
 }

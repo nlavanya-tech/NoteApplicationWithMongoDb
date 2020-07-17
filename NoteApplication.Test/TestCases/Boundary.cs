@@ -14,8 +14,11 @@ namespace NoteApplication.Test.TestCases
 {
     public class Boundary
     {
+        //Creating noteService mock object
         private INoteService _services;
         public readonly Mock<INoteRepository> service = new Mock<INoteRepository>();
+
+        //Here creating text file to generate test methods 
         static Boundary()
         {
             if (!File.Exists("../../../../output_boundary_revised.txt"))
@@ -39,7 +42,7 @@ namespace NoteApplication.Test.TestCases
         }
         Random random = new Random();
 
-     
+     //To ValidateNotesId 
         [Fact]
         public async Task<bool> BoundaryTestfor_ValidateNotesId()
         {

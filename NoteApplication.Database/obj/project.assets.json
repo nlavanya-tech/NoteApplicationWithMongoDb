@@ -5941,11 +5941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NotesApplication\\NoteApplication.Database\\NoteApplication.DataLayer.csproj",
+      "projectUniqueName": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NoteApplicationWithMongoDb_CodeTemplate\\NoteApplication.Database\\NoteApplication.DataLayer.csproj",
       "projectName": "NoteApplication.DataLayer",
-      "projectPath": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NotesApplication\\NoteApplication.Database\\NoteApplication.DataLayer.csproj",
+      "projectPath": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NoteApplicationWithMongoDb_CodeTemplate\\NoteApplication.Database\\NoteApplication.DataLayer.csproj",
       "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
-      "outputPath": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NotesApplication\\NoteApplication.Database\\obj\\",
+      "outputPath": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NoteApplicationWithMongoDb_CodeTemplate\\NoteApplication.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5964,8 +5964,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NotesApplication\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
-              "projectPath": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NotesApplication\\NoteApplication.Entities\\NoteApplication.Entities.csproj"
+            "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NoteApplicationWithMongoDb_CodeTemplate\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
+              "projectPath": "I:\\IIHT\\Note App\\JuniorFSE\\Project\\NoteApplicationWithMongoDb_CodeTemplate\\NoteApplication.Entities\\NoteApplication.Entities.csproj"
             }
           }
         }

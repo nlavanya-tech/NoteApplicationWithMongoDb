@@ -13,3 +13,10 @@ I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj
 I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfo.cs
 I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.dll
 I:\IIHT\Note App\project\JuniorFSE\NotesApplication\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.deps.json
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\bin\Debug\netstandard2.0\NoteApplication.Entities.pdb
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfoInputs.cache
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.AssemblyInfo.cs
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.dll
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationWithMongoDb\NoteApplication.Entities\obj\Debug\netstandard2.0\NoteApplication.Entities.pdb

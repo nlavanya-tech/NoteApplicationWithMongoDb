@@ -11,51 +11,55 @@ namespace NoteApplication.Controllers
 {
     public class NotesAppController : Controller
     {
+        //creating instance of service notes
+
         private readonly INoteService _service;
         //private InMemoryConnection DbContext;
         public NotesAppController(INoteService service)
         {
             _service = service;
         }
+
+        //Get view For Addnew Notes
         public IActionResult AddNewNotes()
         {
-            return View();
+            throw new NotImplementedException();
+            //return View();
         }
+
+        //In this method getting Data from view and sending to service to store in DB
         [HttpPost]
         public async Task<ActionResult> SubmitNote(Notes notes)
         {
-            await _service.CreateAsync(notes);
-            //this.DbContext.Add(lists);
-            //this.DbContext.SaveChanges();
-            return RedirectToAction("Index", "Home"); 
+            throw new NotImplementedException();
         }
+
+        //In this method Getting All Notes from service and sending to view
         [HttpGet]
         public async Task<ActionResult> GetAllNotes()
         {
-            var list = await _service.ReadAsync();
-            //var list = this.DbContext.lists.ToList();
-            return View(list);
+            throw new NotImplementedException();
         }
+
+        //In this method Getting All Status Notes from service and sending to view
         [HttpGet]
         public async Task<ActionResult> GetAllNoteStatus()
         {
-            var list = await _service.ReadAsync();
-            //var lists = this.DbContext.lists.ToList();
-            return View(list);
+            throw new NotImplementedException();
         }
+
+        //In This method getting perticular note note to update from view and sending to service 
         [HttpPut]
         public async Task<ActionResult> UpdateNotes(Notes notes)
         {
-           await _service.UpdateAsync(notes);
-            return View();
+            throw new NotImplementedException();
         }
+
+        //In This method getting perticular note to delete from view and sending to service 
         [HttpDelete]
         public async Task<ActionResult> DeleteNotes(Notes notes)
         {
-            await _service.DeleteAsync(notes);
-            //this.DbContext.Remove(id);
-            //this.DbContext.SaveChanges();
-            return RedirectToAction("GetAllNoteStatus", "NotesApp");
+            throw new NotImplementedException();
         }
          
     }

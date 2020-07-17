@@ -18,31 +18,26 @@ namespace NoteApplication.BusinessLogics.Services
         {
             _repositary = repositary;
         }
-
-        //private InMemoryDb DbContext;
-        //public NoteService(InMemoryDb DbContext)
-        //{
-        //    this.DbContext = DbContext;
-        //}
+        //Get call from controller to read All Notes Data
         public async Task<IEnumerable<Notes>> ReadAsync()
         {
             var notes = await _repositary.ReadAsync();
-           // var notes = this.DbContext.notes.ToList();
             return notes;
         }
+        //Get call from controller to Create Note 
         public async Task<Notes> CreateAsync(Notes notes)
         {
             await _repositary.CreateAsync(notes);
-            //this.DbContext.Add(notes);
-            //this.DbContext.SaveChanges();
             return notes;
         }
+        //Get call from controller to Update Note 
         public async Task<Notes> UpdateAsync(Notes notes)
         {
             var note = await _repositary.UpdateAsync(notes);
             
             return note;
         }
+        //Get call from controller to Delete Note 
         public async Task<Notes> DeleteAsync(Notes notes)
         {
             var result = await _repositary.DeleteAsync(notes);
